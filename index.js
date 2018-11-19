@@ -22,7 +22,7 @@ function subtract(a, b) {
   return a - b
 }
 
-function makeInt(n) {
+function  {
   return parseInt(n, 10)
 }
 
