@@ -21,3 +21,9 @@ function dec(n) {
 function subtract(a, b) {
   return a - b
 }
+
+function makeInt(n) {
+  return parseInt(n)
+}
+
+
